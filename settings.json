@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "window.zoomLevel": 1,
+    "files.autoSave": "off",
+    "editor.wordWrap": "on",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.run": "onType",
+    "sshfs.configs": [
+        {
+            "host": "192.168.17.109",
+            "name": "109",
+            "password": "asdf3333",
+            "root": "/var/www/html/sato_koki",
+            "username": "sato_koki"
+        }
+    ]
+}
